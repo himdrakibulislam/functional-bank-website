@@ -1,3 +1,3 @@
 document.getElementById("login-submit").addEventListener("click",function(){
-    console.log("submit click")
-})
+    window.location.href="banking.html";
+});
